@@ -152,8 +152,6 @@ I'm a graduated physicist and business management professional with a passion fo
   
 ### 💡 "Innovation happens at the intersection of science and technology"
 
-[![Visitors](https://visitcount.itsvg.in/api?id=aminadineh95&icon=0&color=6&labelColor=0&pretty=true)](https://visitcount.itsvg.in)
-
 </div>
 
 <div align="center">

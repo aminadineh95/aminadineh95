@@ -113,20 +113,6 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminadineh95&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=28)
-  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=aminadineh95&theme=tokyonight&hide_border=false)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminadineh95&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">

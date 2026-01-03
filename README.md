@@ -5,40 +5,28 @@
 ---
 
 <div align="center">
-  <h2 style="color: #00FF41;">🔬 Applied Physics Professional | Quantum Computing & AI Expert 🔬</h2>
-  <p style="color: #00FF41;"><em>Bridging the gap between scientific research and intelligent automation</em></p>
+  <h2>🔬 Applied Physics Professional | Quantum Computing & AI Expert 🔬</h2>
+  <p><em>Bridging the gap between scientific research and intelligent automation</em></p>
   
-  [![Website](https://img.shields.io/badge/🌐_Website-aminadineh.ir-00FF41?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://aminadineh.ir/)
-  [![Portfolio](https://img.shields.io/badge/💼_Portfolio-Visit_Portfolio-00FF41?style=for-the-badge&logo=Google-Chrome&logoColor=000000&labelColor=000000)](https://aminadineh.ir/)
+  [![Website](https://img.shields.io/badge/🌐_Website-aminadineh.ir-2ea44f?style=for-the-badge&logo=About.me&logoColor=white)](https://aminadineh.ir/)
+  [![Portfolio](https://img.shields.io/badge/💼_Portfolio-Visit_Portfolio-4A90E2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://aminadineh.ir/)
 </div>
 
 ---
 
 <div align="center">
-  <h3 style="color: #00FF41;">⚡ <a href="https://aminadineh95.github.io/Workflow/" style="color: #00FF41; text-decoration: none; font-weight: bold;">[WORKFLOW_MATRIX]</a> Here you can find me in my workflow ⚡</h3>
+  <h3>⚡ Here you can find me in my <a href="https://aminadineh95.github.io/Workflow/" style="color: #FF6B6B; text-decoration: none; font-weight: bold;">workflow</a> ⚡</h3>
 </div>
 
 ---
 
-<div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">
-╔═══════════════════════════════════════════════════════════════╗
-║                    SYSTEM_INITIALIZATION                      ║
-╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-## <span style="color: #00FF41;">💫 About Me</span>
-
-<div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">&gt; LOADING_USER_PROFILE...</pre>
-</div>
+## 💫 About Me
 
 Hi, I'm **Amin Adineh** 👋
 
 I'm a graduated physicist and business management professional with a passion for bridging the gap between scientific research and intelligent automation. My work focuses on developing scalable solutions across microelectronics, quantum transport, and data-driven process control.
 
-### <span style="color: #00FF41;">🎯 Core Expertise</span>
+### 🎯 Core Expertise
 
 * 🔬 **Quantum & Physics:** Hands-on experience in semiconductor research and building automation systems for cryogenic environments (approaching 0 Kelvin)
 * 🤖 **AI & Automation:** Building intelligent workflow solutions that combine AI with automation to streamline complex research and industrial processes
@@ -47,92 +35,76 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
-<div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">
-╔═══════════════════════════════════════════════════════════════╗
-║                    SKILLS_MATRIX_LOADED                       ║
-╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
+## 🛠️ Skills & Tools
 
-## <span style="color: #00FF41;">🛠️ Skills & Tools</span>
+### 🔬 Scientific Computing
+![Quantum Systems Research](https://img.shields.io/badge/Quantum_Systems-Research-8E44AD?style=flat-square)
+![Surface Physics](https://img.shields.io/badge/Surface_Physics-Expert-3498DB?style=flat-square)
+![Cryogenic Automation](https://img.shields.io/badge/Cryogenic-Automation-16A085?style=flat-square)
 
-### <span style="color: #00FF41;">🔬 Scientific Computing</span>
-![Quantum Systems Research](https://img.shields.io/badge/Quantum_Systems-Research-00FF41?style=flat-square&logoColor=000000&labelColor=000000)
-![Surface Physics](https://img.shields.io/badge/Surface_Physics-Expert-00FF41?style=flat-square&logoColor=000000&labelColor=000000)
-![Cryogenic Automation](https://img.shields.io/badge/Cryogenic-Automation-00FF41?style=flat-square&logoColor=000000&labelColor=000000)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### <span style="color: #00FF41;">💻 Programming Languages</span>
-![Python](https://img.shields.io/badge/python-00FF41?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)
-![C++](https://img.shields.io/badge/c++-00FF41.svg?style=for-the-badge&logo=c%2B%2B&logoColor=000000&labelColor=000000)
-![Rust](https://img.shields.io/badge/rust-00FF41.svg?style=for-the-badge&logo=rust&logoColor=000000&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/typescript-00FF41.svg?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/javascript-00FF41.svg?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000)
-![C#](https://img.shields.io/badge/c%23-00FF41.svg?style=for-the-badge&logo=csharp&logoColor=000000&labelColor=000000)
-![Fortran](https://img.shields.io/badge/Fortran-00FF41.svg?style=for-the-badge&logo=fortran&logoColor=000000&labelColor=000000)
-![R](https://img.shields.io/badge/r-00FF41.svg?style=for-the-badge&logo=r&logoColor=000000&labelColor=000000)
+### 🧪 Scientific Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
-### <span style="color: #00FF41;">🧪 Scientific Libraries & Frameworks</span>
-![NumPy](https://img.shields.io/badge/numpy-00FF41.svg?style=for-the-badge&logo=numpy&logoColor=000000&labelColor=000000)
-![Pandas](https://img.shields.io/badge/pandas-00FF41.svg?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=000000)
-![SciPy](https://img.shields.io/badge/SciPy-00FF41.svg?style=for-the-badge&logo=scipy&logoColor=000000&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-00FF41.svg?style=for-the-badge&logo=PyTorch&logoColor=000000&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF41.svg?style=for-the-badge&logo=TensorFlow&logoColor=000000&labelColor=000000)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00FF41.svg?style=for-the-badge&logo=Matplotlib&logoColor=000000&labelColor=000000)
-![OpenCV](https://img.shields.io/badge/opencv-00FF41.svg?style=for-the-badge&logo=opencv&logoColor=000000&labelColor=000000)
-![CUDA](https://img.shields.io/badge/cuda-00FF41.svg?style=for-the-badge&logo=nVIDIA&logoColor=000000&labelColor=000000)
+### 🌐 Web Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### <span style="color: #00FF41;">🌐 Web Technologies</span>
-![React](https://img.shields.io/badge/react-00FF41.svg?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/vue.js-00FF41.svg?style=for-the-badge&logo=vuedotjs&logoColor=000000&labelColor=000000)
-![Node.js](https://img.shields.io/badge/node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=000000&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=000000)
-![HTML5](https://img.shields.io/badge/html5-00FF41.svg?style=for-the-badge&logo=html5&logoColor=000000&labelColor=000000)
-![CSS3](https://img.shields.io/badge/css3-00FF41.svg?style=for-the-badge&logo=css3&logoColor=000000&labelColor=000000)
-![PHP](https://img.shields.io/badge/php-00FF41.svg?style=for-the-badge&logo=php&logoColor=000000&labelColor=000000)
+### ☁️ Cloud & Infrastructure
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### <span style="color: #00FF41;">☁️ Cloud & Infrastructure</span>
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-00FF41.svg?style=for-the-badge&logo=google-cloud&logoColor=000000&labelColor=000000)
-![Firebase](https://img.shields.io/badge/firebase-00FF41.svg?style=for-the-badge&logo=firebase&logoColor=000000&labelColor=000000)
-![Docker](https://img.shields.io/badge/docker-00FF41.svg?style=for-the-badge&logo=docker&logoColor=000000&labelColor=000000)
-![Vercel](https://img.shields.io/badge/vercel-00FF41.svg?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-00FF41.svg?style=for-the-badge&logo=digitalOcean&logoColor=000000&labelColor=000000)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-00FF41?style=for-the-badge&logo=Cloudflare&logoColor=000000&labelColor=000000)
-![Render](https://img.shields.io/badge/Render-00FF41.svg?style=for-the-badge&logo=render&logoColor=000000&labelColor=000000)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### <span style="color: #00FF41;">🗄️ Databases</span>
-![MongoDB](https://img.shields.io/badge/MongoDB-00FF41.svg?style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=000000)
-![MySQL](https://img.shields.io/badge/mysql-00FF41.svg?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=000000)
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### <span style="color: #00FF41;">🎨 Design & Tools</span>
-![Figma](https://img.shields.io/badge/figma-00FF41.svg?style=for-the-badge&logo=figma&logoColor=000000&labelColor=000000)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-00FF41.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=000000&labelColor=000000)
-![Canva](https://img.shields.io/badge/Canva-00FF41.svg?style=for-the-badge&logo=Canva&logoColor=000000&labelColor=000000)
-![LaTeX](https://img.shields.io/badge/latex-00FF41.svg?style=for-the-badge&logo=latex&logoColor=000000&labelColor=000000)
+### 🔧 DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### <span style="color: #00FF41;">🔧 DevOps & Tools</span>
-![GitHub Actions](https://img.shields.io/badge/github%20actions-00FF41.svg?style=for-the-badge&logo=githubactions&logoColor=000000&labelColor=000000)
-![GitLab](https://img.shields.io/badge/gitlab-00FF41.svg?style=for-the-badge&logo=gitlab&logoColor=000000&labelColor=000000)
-![GitHub](https://img.shields.io/badge/github-00FF41.svg?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
-![Nginx](https://img.shields.io/badge/nginx-00FF41.svg?style=for-the-badge&logo=nginx&logoColor=000000&labelColor=000000)
-![Apache](https://img.shields.io/badge/apache-00FF41.svg?style=for-the-badge&logo=apache&logoColor=000000&labelColor=000000)
-
-### <span style="color: #00FF41;">🌍 Languages</span>
-![English](https://img.shields.io/badge/English-Fluent-00FF41?style=flat-square&logoColor=000000&labelColor=000000)
-![German](https://img.shields.io/badge/German_Deutsch-Conversational-00FF41?style=flat-square&logoColor=000000&labelColor=000000)
-![Persian](https://img.shields.io/badge/Persian-Native-00FF41?style=flat-square&logoColor=000000&labelColor=000000)
+### 🌍 Languages
+![English](https://img.shields.io/badge/English-Fluent-1DA1F2?style=flat-square)
+![German](https://img.shields.io/badge/German_Deutsch-Conversational-000000?style=flat-square)
+![Persian](https://img.shields.io/badge/Persian-Native-FFD700?style=flat-square)
 
 ---
 
-<div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">
-╔═══════════════════════════════════════════════════════════════╗
-║                 RESEARCH_MATRIX_ACTIVE                        ║
-╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-## <span style="color: #00FF41;">📈 Current Focus & Research</span>
+## 📈 Current Focus & Research
 
 <div align="center">
 
@@ -146,15 +118,7 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
-<div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">
-╔═══════════════════════════════════════════════════════════════╗
-║                 CONTRIBUTION_MATRIX_LOADING                   ║
-╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-## <span style="color: #00FF41;">🔝 Top Contributions</span>
+## 🔝 Top Contributions
 
 <div align="center">
   
@@ -164,40 +128,24 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
-<div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">
-╔═══════════════════════════════════════════════════════════════╗
-║                   CONNECTION_MATRIX_READY                     ║
-╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-## <span style="color: #00FF41;">🌐 Connect With Me</span>
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-aminadineh.ir-00FF41?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://aminadineh.ir/)
-[![Workflow](https://img.shields.io/badge/⚡_GitHub_Workflow-View_Here-00FF41?style=for-the-badge&logo=GitHub&logoColor=000000&labelColor=000000)](https://aminadineh95.github.io/Workflow/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/aminadineh)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000)](https://instagram.com/amenadineh)
-[![X (Twitter)](https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000)](https://x.com/aminadineh)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:aminadineh95@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_Website-aminadineh.ir-2ea44f?style=for-the-badge&logo=About.me&logoColor=white)](https://aminadineh.ir/)
+[![Workflow](https://img.shields.io/badge/⚡_GitHub_Workflow-View_Here-FF6B6B?style=for-the-badge&logo=GitHub&logoColor=white)](https://aminadineh95.github.io/Workflow/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminadineh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amenadineh)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aminadineh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminadineh95@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">
-╔═══════════════════════════════════════════════════════════════╗
-║                      SYSTEM_MESSAGE                           ║
-╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-<div align="center">
   
-### <span style="color: #00FF41;">💡 "Innovation happens at the intersection of science and technology"</span>
+### 💡 "Innovation happens at the intersection of science and technology"
 
 </div>
 
@@ -208,6 +156,5 @@ I'm a graduated physicist and business management professional with a passion fo
 ---
 
 <div align="center">
-  <pre style="color: #00FF41; font-family: monospace;">&gt; SYSTEM_EXIT</pre>
-  <sub style="color: #00FF41;">Built with ❤️ using GitHub Profile README Generator</sub>
+  <sub>Built with ❤️ using GitHub Profile README Generator</sub>
 </div>

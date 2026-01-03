@@ -9,13 +9,32 @@
   <p><em>Bridging the gap between scientific research and intelligent automation</em></p>
   
   [![Website](https://img.shields.io/badge/🌐_Website-aminadineh.ir-2ea44f?style=for-the-badge&logo=About.me&logoColor=white)](https://aminadineh.ir/)
-  [![Workflow](https://img.shields.io/badge/⚡_Workflow-View_My_Workflow-FF6B6B?style=for-the-badge&logo=GitHub&logoColor=white)](https://aminadineh95.github.io/Workflow/)
   [![Portfolio](https://img.shields.io/badge/💼_Portfolio-Visit_Portfolio-4A90E2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://aminadineh.ir/)
 </div>
 
 ---
 
+<div align="center">
+  <a href="https://aminadineh95.github.io/Workflow/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=100&section=header&animation=twinkling&text=My+Workflow&fontSize=45&fontAlignY=35&fontColor=fff" alt="Workflow Animation" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>⚡ Here you can find me in my <a href="https://aminadineh95.github.io/Workflow/" style="color: #FF6B6B; text-decoration: none; font-weight: bold;">workflow</a> ⚡</h3>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=30&section=header&animation=sliding" alt="Divider" />
+</div>
+
 ## 💫 About Me
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,11&height=35&section=header&animation=scaling&text=About+Me&fontSize=25&fontAlignY=20&fontColor=fff" alt="About Me Banner" />
+</div>
 
 Hi, I'm **Amin Adineh** 👋
 
@@ -29,6 +48,10 @@ I'm a graduated physicist and business management professional with a passion fo
 * 💻 **Tech Leadership:** Python, Scientific Computing, AI-driven Automation, System Design, and Digital Marketing Strategy
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=25&section=header&animation=rotating" alt="Divider" />
+</div>
 
 ## 🛠️ Skills & Tools
 
@@ -99,6 +122,10 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=40&section=header&animation=scaling&text=Research&fontSize=30&fontAlignY=15&fontColor=fff" alt="Research Banner" />
+</div>
+
 ## 📈 Current Focus & Research
 
 <div align="center">
@@ -113,6 +140,10 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=35&section=header&animation=sliding&text=Achievements&fontSize=30&fontAlignY=20&fontColor=fff" alt="Achievements Banner" />
+</div>
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -123,6 +154,10 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,20,11&height=35&section=header&animation=rotating&text=Contributions&fontSize=30&fontAlignY=20&fontColor=fff" alt="Contributions Banner" />
+</div>
+
 ## 🔝 Top Contributions
 
 <div align="center">
@@ -132,6 +167,10 @@ I'm a graduated physicist and business management professional with a passion fo
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,6,20&height=40&section=header&animation=twinkling&text=Connect+With+Me&fontSize=30&fontAlignY=15&fontColor=fff" alt="Connect Banner" />
+</div>
 
 ## 🌐 Connect With Me
 
@@ -147,6 +186,10 @@ I'm a graduated physicist and business management professional with a passion fo
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=30&section=header&animation=sliding" alt="Divider" />
+</div>
 
 <div align="center">
   

@@ -118,16 +118,6 @@ I'm a graduated physicist and business management professional with a passion fo
 
 ---
 
-## 🔝 Top Contributions
-
-<div align="center">
-  
-![Contributions](https://github-contributor-stats.vercel.app/api?username=aminadineh95&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">

@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,11&height=60&section=header&animation=scaling&text=About+Me&fontSize=35&fontAlignY=35&fontColor=fff" alt="About Me Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,11&height=70&section=header&animation=scaling&text=About+Me&fontSize=28&fontAlignY=35&fontColor=fff" alt="About Me Banner" />
 </div>
 
 Hi, I'm **Amin Adineh** 👋
@@ -48,7 +48,7 @@ I'm a graduated physicist and business management professional with a passion fo
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=60&section=header&animation=rotating&text=Skills+%26+Tools&fontSize=32&fontAlignY=35&fontColor=fff" alt="Skills Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=70&section=header&animation=rotating&text=Skills+%26+Tools&fontSize=28&fontAlignY=35&fontColor=fff" alt="Skills Banner" />
 </div>
 
 ### 🔬 Scientific Computing
@@ -119,7 +119,7 @@ I'm a graduated physicist and business management professional with a passion fo
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=60&section=header&animation=scaling&text=Current+Focus+%26+Research&fontSize=32&fontAlignY=35&fontColor=fff" alt="Research Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=70&section=header&animation=scaling&text=Current+Focus+%26+Research&fontSize=28&fontAlignY=35&fontColor=fff" alt="Research Banner" />
 </div>
 
 <div align="center">
@@ -135,19 +135,7 @@ I'm a graduated physicist and business management professional with a passion fo
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=60&section=header&animation=sliding&text=GitHub+Achievements&fontSize=32&fontAlignY=35&fontColor=fff" alt="Achievements Banner" />
-</div>
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aminadineh95&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,20,11&height=60&section=header&animation=rotating&text=Top+Contributions&fontSize=32&fontAlignY=35&fontColor=fff" alt="Contributions Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,20,11&height=70&section=header&animation=rotating&text=Top+Contributions&fontSize=28&fontAlignY=35&fontColor=fff" alt="Contributions Banner" />
 </div>
 
 <div align="center">
@@ -159,7 +147,7 @@ I'm a graduated physicist and business management professional with a passion fo
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,6,20&height=60&section=header&animation=twinkling&text=Connect+With+Me&fontSize=32&fontAlignY=35&fontColor=fff" alt="Connect Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,6,20&height=70&section=header&animation=twinkling&text=Connect+With+Me&fontSize=28&fontAlignY=35&fontColor=fff" alt="Connect Banner" />
 </div>
 
 <div align="center">

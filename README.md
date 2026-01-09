@@ -43,6 +43,8 @@ I'm a graduated physicist and business management professional with a passion fo
 ![Cryogenic Automation](https://img.shields.io/badge/Cryogenic-Automation-16A085?style=flat-square)
 
 ### 💻 Programming Languages
+![LabView](https://img.shields.io/badge/LabView-3670A0?style=for-the-badge&logo=LabView&logoColor=ffdd54)
+![LabView GenAI](https://img.shields.io/badge/LabViewGenAI-3670A0?style=for-the-badge&logo=LabViewGenAI&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
